@@ -1,0 +1,26 @@
+{
+  "name": "lucid2d",
+  "version": "1.0.0",
+  "description": "Lucid2D is a plugin for unreal engine 5",
+  "main": "main.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "UnrealEngine",
+    "UnrealEngine5",
+    "Game",
+    "Engine",
+    "Editor",
+    "Plugin"
+  ],
+  "author": "Packet",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
